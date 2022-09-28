@@ -1,1 +1,1 @@
-A Tweet dataset about dog ratings on twitter; the project involved gathering the data from different sources and in different format, then wrangling and analyzing the data.
+A Tweet dataset about dog ratings on twitter; the project involved gathering the data from different sources and in different format, investigating the data for some quality and tidiness issues, cleaning up the data with python data cleaning techniques and finally visualizing the data.
